@@ -1,0 +1,53 @@
+
+		.logo{
+			width: 60px;
+			height: 60px;
+		}
+		#social{
+			text-align: center;
+			background-color: #ffffff;
+			padding-top: 5px;
+			padding-bottom: 5px;
+		}
+
+		#social a{
+		padding-right: 10px;
+		color:#FF0000;
+		}
+
+		#social a :hover{
+		color:#007bff;
+
+		}
+
+		.titulo-section{
+			font-family: "Courier New";
+			color:black;
+		}
+
+		#institucional{
+			text-align: left;
+			background-color: #343a40;
+			padding-top: 50px;
+			padding-bottom: 70px;
+			color:#bdc3c7;
+
+		}
+		#institucional h2{
+			color: #bdc3c7; 
+			text-align: center;
+		}
+
+		.row{background-color: #343a40;}
+		.col{font-weight;bold}
+		.tp{padding-top: 5px; padding-right: 5px;}
+
+		.titulo{text-align: center;}
+
+		#serviços .row{padding-top: 20px; padding-bottom: 20px; color:#bdc3c7;}
+
+		.slot{background-color: #343a40; padding-top: 20px; padding-left: 5px;}
+		#serviços .col { border-right: 1px solid #bdc3c7;}
+
+
+		
